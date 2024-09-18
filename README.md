@@ -1,6 +1,6 @@
 # ML-Classification
 
-# PROJECT: Protein Expression in mice with Down Syndrome
+# Protein Expression in mice with Down Syndrome
 
 ## Description
 
